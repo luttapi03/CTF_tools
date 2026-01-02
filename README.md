@@ -1,7 +1,7 @@
 #PicoCTF Utility: Decimal-to-Binary Converter
 A custom tool developed to automate base conversions during the 2025 PicoCTF Challenge.
 
-## 0x01: Contex
+## 0x01: Context
 While participating in "PicoCTF" I encountered multiple challenges requiring rapid conversion between decimal to binary. Rather than using 
 online converters, I wrote this C utility to handle the logic locally and understand the underlaying data transformation.
 
