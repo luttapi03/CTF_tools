@@ -2,7 +2,6 @@
 
 void decimalTobinary(int n);
 
-
 int main(){
 
     int decimalNum = 0;
@@ -18,7 +17,6 @@ int main(){
     }
 
     printf("Program run successfully.\n");
-
 
     return 0;
 }
